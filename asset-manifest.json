@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blog-react-training/static/css/main.db457666.chunk.css",
+    "main.js": "/blog-react-training/static/js/main.78c30f62.chunk.js",
+    "main.js.map": "/blog-react-training/static/js/main.78c30f62.chunk.js.map",
+    "runtime-main.js": "/blog-react-training/static/js/runtime-main.93b20fc4.js",
+    "runtime-main.js.map": "/blog-react-training/static/js/runtime-main.93b20fc4.js.map",
+    "static/js/2.4d3204ee.chunk.js": "/blog-react-training/static/js/2.4d3204ee.chunk.js",
+    "static/js/2.4d3204ee.chunk.js.map": "/blog-react-training/static/js/2.4d3204ee.chunk.js.map",
+    "index.html": "/blog-react-training/index.html",
+    "static/css/main.db457666.chunk.css.map": "/blog-react-training/static/css/main.db457666.chunk.css.map",
+    "static/js/2.4d3204ee.chunk.js.LICENSE.txt": "/blog-react-training/static/js/2.4d3204ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b20fc4.js",
+    "static/js/2.4d3204ee.chunk.js",
+    "static/css/main.db457666.chunk.css",
+    "static/js/main.78c30f62.chunk.js"
+  ]
+}
